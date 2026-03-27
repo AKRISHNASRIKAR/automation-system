@@ -1,0 +1,13 @@
+{
+  "name": "system-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal workflow automation engine Phase 1 webhook receiver",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
